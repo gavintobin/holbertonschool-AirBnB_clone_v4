@@ -1,14 +1,14 @@
-# AirBnB Clone - The Console
+# 🏠 AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
-#### Functionalities of this command interpreter:
+#### ⚙️ Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
 * Retrieve an object from a file, a database etc...
 * Do operations on objects (count, compute stats, etc...)
 * Update attributes of an object
 * Destroy an object
 
-## Table of Content
+## 📚  Table of Contents
 * [Environment](#environment)
 * [Installation](#installation)
 * [File Descriptions](#file-descriptions)
@@ -18,16 +18,16 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Authors](#authors)
 * [License](#license)
 
-## Environment
+## 🌐 Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
-## Installation
+## 📦 Installation
 * Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
-## File Descriptions
+## 📁 File Descriptions
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
 List of commands this console current supports:
 * `EOF` - exits console 
@@ -131,7 +131,7 @@ TestBaseModel class:
 [4-hbnb.html](/web_dynamic/templates/4-hbnb.html) - HTML template for the `4-hbnb` route
 [4-hbnb.js](/web_dynamic/static/scripts/4-hbnb.js) - JavaScript file implementing dynamic behavior for the `4-hbnb` route
 
-## Examples of use
+## 📝 Examples of use
 ```
 vagrantAirBnB_clone$./console.py
 (hbnb) help
@@ -154,10 +154,10 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Bugs
+## 🐞 Bugs
 No known bugs at this time. 
 
-## Authors
+## 👥 Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
@@ -166,5 +166,6 @@ Ricardo Corona - [Github](https://github.com/LW068)
 Gavin Tobin - [Github](https://github.com/gavintobin)
 
 Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
+
+## 📄 License
+Public Domain. No copyright protection. 
