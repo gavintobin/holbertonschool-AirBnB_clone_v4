@@ -126,6 +126,10 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
+#### `/web_dynamic/` directory contains files related to the web frontend of the project:
+[4-hbnb.py](/web_dynamic/4-hbnb.py) - Flask web application file with route `4-hbnb`
+[4-hbnb.html](/web_dynamic/templates/4-hbnb.html) - HTML template for the `4-hbnb` route
+[4-hbnb.js](/web_dynamic/static/scripts/4-hbnb.js) - JavaScript file implementing dynamic behavior for the `4-hbnb` route
 
 ## Examples of use
 ```
