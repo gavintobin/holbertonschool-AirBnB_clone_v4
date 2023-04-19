@@ -164,7 +164,6 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Ricardo Corona - [Github](https://github.com/LW068)
-
 Gavin Tobin - [Github](https://github.com/gavintobin)
 
 Second part of Airbnb: Joann Vuong
